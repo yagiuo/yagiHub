@@ -129,6 +129,7 @@
 		DB4C2D9B17364F98008619BD /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = DB4C2D9A17364F98008619BD /* main.m */; };
 		DB4C2D9E17364F98008619BD /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = DB4C2D9D17364F98008619BD /* AppDelegate.m */; };
 		DB4C2DA117364F98008619BD /* HelloWorldLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = DB4C2DA017364F98008619BD /* HelloWorldLayer.m */; };
+		DBE4645F173656DF0072D50B /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = DBE4645E173656DF0072D50B /* Default-568h@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -388,6 +389,7 @@
 		DB4C2D9D17364F98008619BD /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		DB4C2D9F17364F98008619BD /* HelloWorldLayer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HelloWorldLayer.h; sourceTree = "<group>"; };
 		DB4C2DA017364F98008619BD /* HelloWorldLayer.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HelloWorldLayer.m; sourceTree = "<group>"; };
+		DBE4645E173656DF0072D50B /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -413,6 +415,7 @@
 		DB4C2C0A17364F95008619BD = {
 			isa = PBXGroup;
 			children = (
+				DBE4645E173656DF0072D50B /* Default-568h@2x.png */,
 				DB4C2C2B17364F95008619BD /* yagiHub */,
 				DB4C2C1817364F95008619BD /* Frameworks */,
 				DB4C2C1617364F95008619BD /* Products */,
@@ -878,6 +881,7 @@
 				DB4C2C4017364F95008619BD /* Icon@2x.png in Resources */,
 				DB4C2C4317364F96008619BD /* iTunesArtwork in Resources */,
 				DB4C2D7C17364F98008619BD /* ChangeLog in Resources */,
+				DBE4645F173656DF0072D50B /* Default-568h@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1092,6 +1096,7 @@
 				DB4C2DA617364F98008619BD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
